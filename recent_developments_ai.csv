@@ -1,0 +1,13 @@
+AI Method,Company,Description,Date
+AlphaCode,DeepMind,,2/2/2022
+CoPilot,GitHub,,6/21/2022
+PaLM,Google,,5/4/2022
+CLIP,OpenAI,Connects text to images,1/5/2021
+DALL.E,OpenAI,Generating images and art from text,1/5/2021
+DALL.E 2,OpenAI,"Generating images and art from text, with ability to combine concepts, attributes and styles",4/13/2022
+GPT-3,OpenAI,Generative Pre-trained Transformer 3 is an autoregressive language model that uses deep learning to produce human-like text,6/11/2020
+Make-A-Video,Meta,"AI system that lets people turn text prompts into brief, high-quality video clips",9/29/2022
+Stable Diffusion,U. Munich + Stability.AI,A state of the art text-to-image model that generates images from text,8/22/2022
+ChatGPT, OpenAI, a chatbot launched by OpenAI in November 2022. It is built on top of OpenAI's GPT-3.5 family of large language models and is fine-tuned with both supervised and reinforcement learning techniques, 11/30/2022
+MusicLM,Google,,1/26/2023
+Make-A-Video3D,Meta,,1/26/2023
