@@ -13,7 +13,7 @@
 3. Figure 8
 
 	ChatGPT is susceptible to simple adversarial attacks: A *bigfish* story. 
-	See https://www.loom.com/share/e5ba5d5baca7422fbe3d22c2092113b9} for a recording of this interaction.
+	See https://www.loom.com/share/e5ba5d5baca7422fbe3d22c2092113b9 for a recording of this interaction.
 
 4. Figure 9
 
@@ -39,7 +39,11 @@
 9. Figure 15
 
 	ChatGPT's *in-depth* explanation of the five phases in SPC control charts. The recorded answer is available at https://www.loom.com/share/64b6042351aa495188b294c26522cfb3.
+	
+10. Figure 16
 
-10. We asked ChatGPT to *Generate a course syllabus for a statistical process control for undergraduate students. The students have already completed two statistics courses. The course is a three-credit hour course and is offered for 15 weeks.*
+	ChatGPT's identification of seven open issues in SPC research. The recording is available at https://www.loom.com/share/fbe45e1f38ff46edbe6523513e4153e1.
+
+11. We asked ChatGPT to *Generate a course syllabus for a statistical process control for undergraduate students. The students have already completed two statistics courses. The course is a three-credit hour course and is offered for 15 weeks.*
 A recording of ChatGPT's generated answer is available at 
 https://www.loom.com/share/529e2a04b1614c1fbec58dd2fd3f548f.
