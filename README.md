@@ -6,7 +6,7 @@ This Github repository provides the resources used in the paper:
 The table below provides the information about files in the this repository. 
 
 |Folders / Files                   |Information                                                |
-| -------------------------------- |----------------------------------------------------------:| 
+| -------------------------------- | --------------------------------------------------------- | 
 |figs                              |All figures / screenshots used in this study               |
 |CITATION.cff                      |Citation Setting for this GitHub Repository                |
 |ChatGPT_generated_code_01.py      |ChatGPT Genertated Python Code                             |
