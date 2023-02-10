@@ -1,7 +1,9 @@
 # Large Language Model Expository
-This Github Repository provides the resources used in the paper: 
+This Github repository provides the resources used in the paper: 
 
 **How Generative AI models such as ChatGPT can be (Mis)Used in SPC Practice, Education, and Reserach? An Exploratory Study**.
+
+The table below provides the information about files in the this repository. 
 
 |Folders / Files                   |Information                                                |
 | -------------------------------- |----------------------------------------------------------:| 
